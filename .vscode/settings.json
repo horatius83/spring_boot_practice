@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "hello_world",
+        "demo/src/main/java/com/maxpeckham/demo"
+    ]
+}
